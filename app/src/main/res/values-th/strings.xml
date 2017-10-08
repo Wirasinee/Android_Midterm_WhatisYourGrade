@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">What is Your Grade</string>
+    <string name="exit">ออก</string>
+    <string name="find">คำนวนเกรด</string>
+    <string name="name" translatable="false">ชื่อ</string>
+    <string name="promlert"></string>
+    <string name="score">คะแนน</string>
+    <string name="enter">ป้อนชื่อและคะแนนของคุณ</string>
+    <string name="what">คุณได้เกรดเท่าไหร</string>
+</resources>
